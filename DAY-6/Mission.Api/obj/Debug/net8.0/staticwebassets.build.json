@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "pPjP0MuurCYtHH/s4gfBm6G9GuxqEgc1N3PJs4BYVrs=",
+  "Source": "Mission.Api",
+  "BasePath": "_content/Mission.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Mission.Api\\wwwroot",
+      "Source": "Mission.Api",
+      "ContentRoot": "D:\\Summer Internship 2025\\Mission\\Mission.Api\\wwwroot\\",
+      "BasePath": "_content/Mission.Api",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\Summer Internship 2025\\Mission\\Mission.Api\\wwwroot\\Images\\N-tier Architecture.drawio_20250708065951.png",
+      "SourceId": "Mission.Api",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\Summer Internship 2025\\Mission\\Mission.Api\\wwwroot\\",
+      "BasePath": "_content/Mission.Api",
+      "RelativePath": "Images/N-tier Architecture.drawio_20250708065951.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Images\\N-tier Architecture.drawio_20250708065951.png"
+    }
+  ]
+}
